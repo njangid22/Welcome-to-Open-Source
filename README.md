@@ -1717,5 +1717,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
         </tr>
+        <p><i>Thank you for joining in this open source community</i></p>
     </tbody>
 </table>
